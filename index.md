@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Maneet-z repository.!
 
 You can use the [editor on GitHub](https://github.com/maneet-z/LRU-implementation-for-fibonacci-series/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
